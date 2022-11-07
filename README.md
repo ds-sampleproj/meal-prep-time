@@ -5,7 +5,7 @@ the specified model *(uses python/flask)*. A **summary of notes** is also provid
 
 ## Running the Jupyter Notebook:
 cd into the **meal-prep-time** repository and run *jupyter notebook* from your console.
-Navigate to 'notebook.ipynb' from the GUI and follow the script accordingly.
+Navigate to **notebook.ipynb** from the GUI and follow the script accordingly.
 
 ## Running the Docker container:
 cd into the **meal-prep-time** repository, then cd into the **app** folder.
